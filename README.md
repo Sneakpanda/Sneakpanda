@@ -7,6 +7,7 @@ Check out my steam game here:
 https://store.steampowered.com/app/3127870/LuIdle/
 
 Lu[Idle], my game on steam, is my first ever coding project, so its pretty bad. My other projects are much better.
+
 You can reach me at jsherrard25@gmail.com
 
 <!---
