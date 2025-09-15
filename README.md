@@ -4,7 +4,7 @@ You can check out my projects on my itch.io page:
 https://sneak-panda.itch.io/
 
 Check out my steam game here: 
-[https://store.steampowered.com/app/3127870/LuIdle/](https://store.steampowered.com/app/3696110/Square_Game/)
+[https://store.steampowered.com/app/3127870/Square_Game/](https://store.steampowered.com/app/3696110/Square_Game/)
 
 You can reach me at jsherrard25@gmail.com
 
